@@ -1,7 +1,7 @@
 # openthread
 integration of openthread and wrapper scripts
 
-#dependencies not mentioned in the install link
+# dependencies not mentioned in the install link
 
   sudo apt-get install libtool
   sudo apt-get install autotools-dev
